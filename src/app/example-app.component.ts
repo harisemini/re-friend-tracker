@@ -26,7 +26,7 @@ export class ExampleAppComponent extends path.PathAppComponent {
         return "0.2.7";
     }
 
-    protected getStartPage():string { 
+    protected getStartPage():string {  
         return "mainmenu";
     }
 

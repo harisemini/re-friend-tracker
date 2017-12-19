@@ -20,7 +20,7 @@
                             "type": "text",
                             "name": "FamilyName",
                             "width": 1,
-                            "required": true
+                            "required": true 
                         },
                         {
                             "id": "firstName",
