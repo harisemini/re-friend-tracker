@@ -14,7 +14,7 @@
                 {
                     "id": "FriendForm",
                     "title": "Friend",
-                    "formFieldList": [
+                    "formFieldList": [ 
                         {
                             "id": "familyName",
                             "type": "text",
