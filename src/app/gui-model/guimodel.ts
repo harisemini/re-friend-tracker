@@ -7,7 +7,7 @@
     des Zurück-Buttons die Elemente nicht mehr korrekt dargestellt.
     */
 
-    private _guiModel = {
+    private _guiModel = {  
         "application": {
             "title": "Haris Friend Tracker", 
            "formList": [

@@ -15,7 +15,7 @@ import {ExampleTranslationService} from "./example-translation-service";
     providers: [path.PathService, { provide: TranslationService, useClass: ExampleTranslationService }]
 })
 export class ExampleAppComponent extends path.PathAppComponent {
-
+  
     private _appConfig = new GuiModel();  
 
     constructor(pathService: path.PathService, translationService: TranslationService) {
