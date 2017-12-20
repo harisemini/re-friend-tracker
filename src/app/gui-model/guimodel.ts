@@ -12,7 +12,7 @@
             "title": "Haris Friend Tracker", 
            "formList": [
                 {
-                    "id": "FriendForm",  
+                    "id": "FriendForm",    
                     "title": "Friend",
                     "formFieldList": [ 
                         {
