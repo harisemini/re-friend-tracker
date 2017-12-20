@@ -30,7 +30,7 @@ export class ExampleAppComponent extends path.PathAppComponent {
         return "mainmenu";
     }
 
-    protected getOwnUserForm():string {
+    protected getOwnUserForm():string {    
         return "UserForm";
     }
 
